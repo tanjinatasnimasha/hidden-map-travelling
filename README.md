@@ -11,18 +11,6 @@ A bilingual travel-agency website for visit and tourist visa application assista
 - Inquiry review, email draft, copy and text download
 - Shared business contact details authorized by the owner
 
-## Upload to GitHub
-1. Extract this ZIP on your computer.
-2. Create a separate repository called hidden-map-travelling and choose Private.
-3. On an empty repository, click uploading an existing file in Quick setup. Otherwise choose Add file, then Upload files.
-4. Upload the extracted files and the assets folder, preserving the folder structure.
-5. Use Add Hidden Map Travelling website as the commit message and commit the changes.
-
-Upload the extracted contents, not only the ZIP.
-
-Suggested repository description:
-Bilingual website for Hidden Map Travelling, featuring visa assistance, hotel booking, ticketing, itineraries, group tours, personal guides and custom trip planning.
-
 ## Files
 - index.html: page structure
 - styles.css: design and responsive layouts
